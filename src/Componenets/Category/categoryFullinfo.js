@@ -3,24 +3,24 @@ export const CategoryInfo = [
     title: "Electronics",
     name: "electronics",
     imageLink:
-      "https://m.media-amazon.com/images/I/61Hg040ZMuL._AC_SL1000_.jpg",
+      "https://th.bing.com/th/id/R.afa14065ec0bfc6be5567ac52301beac?rik=4TD3lbVb1qXQwg&riu=http%3a%2f%2fbestshoppingshop.com%2fwp-content%2fuploads%2f2017%2f12%2fElectronics-1.jpg&ehk=8p%2f%2boHAgkVYyq1k%2bqzv889zIcb08l8qn1gcoomTXTJg%3d&risl=&pid=ImgRaw&r=0",
   },
   {
     title: "Fashion trends",
     name: "women's clothing",
     imageLink:
-      "https://louisphilippe.abfrl.in/blog/wp-content/uploads/2024/07/LP-Jean-cropped.jpeg",
+      "https://i.pinimg.com/736x/50/b3/2d/50b32da19a158bd3bc4bf0cdd3ac9c07.jpg",
   },
   {
     title: "Men's Clothing",
     name: "men's clothing",
     imageLink:
-      "https://louisphilippe.abfrl.in/blog/wp-content/uploads/2024/06/20231007-LP1176-1-min.jpg",
+      "https://i.pinimg.com/736x/8b/49/32/8b49326b596ed5e9463e92e4e6adfdba.jpg",
   },
   {
     title: "jewelery",
     name: "jewelery",
     imageLink:
-      "https://i5.walmartimages.com/seo/African-Jewelry-Set-Dubai-Gold-Silver-Jewelry-Sets-For-Women-Round-Wedding-Jewellery-Set-Bridal-Costume-Jewelery_8113f5de-bfcb-4a39-a0ab-08bb937e9257.e16713e7b090bcd274e62e9be20d7746.jpeg",
+      "https://th.bing.com/th/id/OIP.kPq-MsjjS7qx0Dpna8JiJwHaHa?rs=1&pid=ImgDetMain",
   },
 ];
